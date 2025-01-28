@@ -1,5 +1,5 @@
 # Price_Forecasting [(Link)](https://dacon.io/competitions/official/236381/leaderboard)
-# 인기상 [(Link)](https://dacon.io/competitions/official/236417/leaderboard)
+#### 인기상 [(Link)](https://dacon.io/competitions/official/236417/leaderboard)
 
 ## 🏆 Result
 ## **Public score 1st** 0.08605 | **Private score 1st** 0.07665 | 최종 1등
