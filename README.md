@@ -2,8 +2,8 @@
 #### 인기상 [(Link)](https://dacon.io/competitions/official/236417/leaderboard)
 
 ## 🏆 Result
-## **Public score 1st** 0.08605 | **Private score 1st** 0.07665 | 최종 1등
-
+## **Public score 1st** 0.08605 | **Private score 1st** 0.07665 | 최종 1등  
+## 농림축산식품부 장관상  
 <img width="50%" src="https://github.com/user-attachments/assets/51ed525a-5ab5-439a-8086-cc0ac25b2eca"/>  
 
 주최 : ```디지털플랫폼정부위원회, 농림축산식품부```
